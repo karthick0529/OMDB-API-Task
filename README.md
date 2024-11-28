@@ -11,7 +11,7 @@ This application lets users:
 - Add and manage a list of favorite movies.
 - Navigate between pages using React Router.
 
-**Deployed App**: 
-[OMDB-API-Task](https://movie-search-app-reactjs.netlify.app/)
+**Deployment Link**: 
+(https://lucky-cassata-416f64.netlify.app/)
 
 
