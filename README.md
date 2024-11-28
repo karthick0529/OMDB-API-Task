@@ -12,6 +12,7 @@ This application lets users:
 - Navigate between pages using React Router.
 
 **Deployment Link**: 
-(https://lucky-cassata-416f64.netlify.app/)
+
+https://lucky-cassata-416f64.netlify.app/
 
 
